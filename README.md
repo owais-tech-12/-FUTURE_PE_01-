@@ -126,16 +126,7 @@ Feel free to adapt for personal projects, courses, product explainers, or facele
 
 ---
 
-*Created by [Your Name or Handle]*  
-3. Upload to GitHub
-If you're not familiar with GitHub yet:
 
-Go to github.com
-
-Create a new repository (click "New" on the top left)
-
-Name it something like:
-ai-prompt-chain-youtube-video
 
 Click "Add file > Upload files" or "Create new file"
 
